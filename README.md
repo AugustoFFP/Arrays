@@ -20,4 +20,4 @@ Irá preencher o vetor com números sorteados.
 - Valores digitados
 Irá preencher o vetor com valores digitados por meio de input do usuário.
 
-##[BuscaSequencial em Vetores](https://github.com/AugustoFFP/Arrays/blob/main/Busca_Sequencial_Vetores/Program.cs)
+## [BuscaSequencial em Vetores](https://github.com/AugustoFFP/Arrays/blob/main/Busca_Sequencial_Vetores/Program.cs)
