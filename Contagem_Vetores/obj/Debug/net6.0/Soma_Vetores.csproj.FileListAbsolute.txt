@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\bin\Debug\net6.0\Soma_Vetores.exe
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\bin\Debug\net6.0\Soma_Vetores.deps.json
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\bin\Debug\net6.0\Soma_Vetores.runtimeconfig.json
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\bin\Debug\net6.0\Soma_Vetores.dll
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\bin\Debug\net6.0\Soma_Vetores.pdb
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\Soma_Vetores.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\Soma_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\Soma_Vetores.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\Soma_Vetores.AssemblyInfo.cs
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\Soma_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\Soma_Vetores.dll
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\refint\Soma_Vetores.dll
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\Soma_Vetores.pdb
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\Soma_Vetores.genruntimeconfig.cache
+C:\Users\augus\Desktop\arrays\Contagem_Vetores\obj\Debug\net6.0\ref\Soma_Vetores.dll

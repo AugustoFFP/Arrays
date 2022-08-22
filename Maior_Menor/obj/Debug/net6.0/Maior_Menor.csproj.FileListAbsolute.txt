@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\arrays\Maior_Menor\bin\Debug\net6.0\Maior_Menor.exe
+C:\Users\augus\Desktop\arrays\Maior_Menor\bin\Debug\net6.0\Maior_Menor.deps.json
+C:\Users\augus\Desktop\arrays\Maior_Menor\bin\Debug\net6.0\Maior_Menor.runtimeconfig.json
+C:\Users\augus\Desktop\arrays\Maior_Menor\bin\Debug\net6.0\Maior_Menor.dll
+C:\Users\augus\Desktop\arrays\Maior_Menor\bin\Debug\net6.0\Maior_Menor.pdb
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\Maior_Menor.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\Maior_Menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\Maior_Menor.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\Maior_Menor.AssemblyInfo.cs
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\Maior_Menor.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\Maior_Menor.dll
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\refint\Maior_Menor.dll
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\Maior_Menor.pdb
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\Maior_Menor.genruntimeconfig.cache
+C:\Users\augus\Desktop\arrays\Maior_Menor\obj\Debug\net6.0\ref\Maior_Menor.dll

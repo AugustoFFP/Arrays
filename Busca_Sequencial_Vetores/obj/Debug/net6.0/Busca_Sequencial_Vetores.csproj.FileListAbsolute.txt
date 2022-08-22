@@ -1,0 +1,15 @@
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\bin\Debug\net6.0\Busca_Sequencial_Vetores.exe
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\bin\Debug\net6.0\Busca_Sequencial_Vetores.deps.json
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\bin\Debug\net6.0\Busca_Sequencial_Vetores.runtimeconfig.json
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\bin\Debug\net6.0\Busca_Sequencial_Vetores.dll
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\bin\Debug\net6.0\Busca_Sequencial_Vetores.pdb
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\Busca_Sequencial_Vetores.csproj.AssemblyReference.cache
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\Busca_Sequencial_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\Busca_Sequencial_Vetores.AssemblyInfoInputs.cache
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\Busca_Sequencial_Vetores.AssemblyInfo.cs
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\Busca_Sequencial_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\Busca_Sequencial_Vetores.dll
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\refint\Busca_Sequencial_Vetores.dll
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\Busca_Sequencial_Vetores.pdb
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\Busca_Sequencial_Vetores.genruntimeconfig.cache
+C:\Users\augus\Desktop\arrays\Busca_Sequencial_Vetores\obj\Debug\net6.0\ref\Busca_Sequencial_Vetores.dll

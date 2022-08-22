@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Busca_Sequencial_Vetores/1.0.0": {
+        "runtime": {
+          "Busca_Sequencial_Vetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Busca_Sequencial_Vetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
