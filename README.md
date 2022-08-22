@@ -9,7 +9,7 @@ Guardam vários valores que são acessados por identificadores, ou índices.
 ## Vetores ou Variáveis Compostas Homogêneas Unidimensionais
 Guarda vários elementos de um mesmo tipo identificados por um único endereço.
 
-- Declaração em Vetores
+- [Declaração em Vetores](https://github.com/AugustoFFP/Arrays/blob/main/Declaracao/Program.cs)
 Dois modos para declarar um vetor.
 
 ## Percurso em Vetores
