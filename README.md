@@ -38,14 +38,14 @@ Exemplo.: quantas vezes aparece, em que posições, quantas vezes ocorreu.
 # Matrizes
 Valores distribuídos por linhas e colunas, guardados de forma tabular.
 
-## Atribuição em Matrizes
+## [Atribuição em Matrizes](https://github.com/AugustoFFP/Arrays/blob/5a6156491f0a43780bfb0204d533c3e004797eeb/Matrizes/Introducao#L7)
 Vamos utilizar um for para linha e outro for para coluna.
 Posso preencher a matriz com valor fixo, valor sorteado ou input.
 
-## Exibir Matriz na tela
+## [Exibir Matriz na tela](https://github.com/AugustoFFP/Arrays/blob/5a6156491f0a43780bfb0204d533c3e004797eeb/Matrizes/Introducao#L16)
 Utilizar dois for e pular linha cada vez que mudar de linha.
 
-## Isolando elementos por categoria
+## [Isolando elementos por categoria](https://github.com/AugustoFFP/Arrays/blob/5a6156491f0a43780bfb0204d533c3e004797eeb/Matrizes/Exerc003.cs#L29)
 Posso pegar determinada linha ou coluna, de acordo com determinado parâmetro que eu estabeleça de posicionamento dentro de uma estrutura.
 Para eu fixar uma linha, eu vario a coluna. Já para fixar a coluna eu vario a linha.
 Desse modo eu consigo fazer soma, média, maior e menor valor, exatamente como fizemos com o vetor. Porque se eu pego a segunda coluna ou linha, eu tô pegando um vetor
